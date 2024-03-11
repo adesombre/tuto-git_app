@@ -9,7 +9,7 @@ git remote add origin SSH_REPO
 ...
 
 
-## Rediger un commit
+## Rediger un commit (bonne pratique)
 
 ...
 
@@ -25,5 +25,14 @@ Description de notre commit avec des informations  sur l'évolution du projet
 git add .
 git commit -m "Titre du commit"
 git push origin main
+
+...
+
+
+## Creation d'une branche
+
+...
+
+git checkout -b nom de la branche
 
 ...

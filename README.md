@@ -1,10 +1,9 @@
 # Documentation du tuto github avec git
 
 
+## initialisation du depot
 
-...
-    bash
+...bash
 git init
 git remote add origin SSH_REPO
-
 ...

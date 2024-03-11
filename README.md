@@ -23,7 +23,7 @@ Description de notre commit avec des informations  sur l'évolution du projet
 
 ...
 git add .
-git commit -m "Titre du commit"
+git commentaire
 git push origin main
 
 ...
